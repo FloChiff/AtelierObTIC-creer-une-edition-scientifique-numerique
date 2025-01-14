@@ -9,6 +9,8 @@
 
 Ce premier atelier est dédié à la reconnaissance automatique de texte, discipline en constante évolution qui permet aujourd’hui, à l’aide de modèles entraînés, d’acquérir efficacement et rapidement une version lisible par machine d’un corpus de textes. Après une présentation de la discipline, l’atelier fera mettre en pratique ce qui a été mentionné, en appliquant des modèles de segmentation et de transcription, sur les corpus Gallica que l'on travaillera, afin d’obtenir une version exploitable ensuite.
 
+Formulaire de retour d'expérience : https://forms.gle/MpcWcD2DUsDBtEid9
+
 ----
 
 ## Atelier "Encodage et annotation du texte" - 14/03/25
