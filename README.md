@@ -15,7 +15,7 @@ Formulaire de retour d'expérience : https://forms.gle/MpcWcD2DUsDBtEid9
 
 ## Atelier "Encodage et annotation du texte" - 14/03/25
 
-Ce second atelier est dédié à l’encodage de texte en XML-TEI, le standard utilisé de nos jours pour encoder des textes littéraires. Après une introduction au langage de balisage XML et aux composants du standard [TEI](https://tei-c.org/), les participants procéderont, avec [l'outil de conversion XML](https://pandore-toolbox.isir.upmc.fr/conversion_xml) et manuellement, à l’encodage des métadonnées, du corps du texte, ainsi que de diverses annotations (sémantique, critiques, etc.) pertinentes pour les corpus travaillés.
+Ce second atelier est dédié à l’encodage de texte en XML-TEI, le standard utilisé de nos jours pour encoder des textes littéraires. Après une introduction au langage de balisage XML et aux composants du standard [TEI](https://tei-c.org/), les participants procéderont, avec [l'outil de conversion XML](https://obtic-gpu1.mesu.sorbonne-universite.fr:8550/conversion_xml) et manuellement, à l’encodage des métadonnées, du corps du texte, ainsi que de diverses annotations (sémantique, critiques, etc.) pertinentes pour les corpus travaillés.
 
 ----
 
