@@ -17,6 +17,8 @@ Formulaire de retour d'expérience : https://forms.gle/MpcWcD2DUsDBtEid9
 
 Ce second atelier est dédié à l’encodage de texte en XML-TEI, le standard utilisé de nos jours pour encoder des textes littéraires. Après une introduction au langage de balisage XML et aux composants du standard [TEI](https://tei-c.org/), les participants procéderont aux travaux pratiques, avec l’encodage des métadonnées, du corps du texte, ainsi que de diverses annotations (sémantique, critiques, etc.) pertinentes pour le corpus travaillé.
 
+Formulaire de retour d'expérience : https://forms.gle/RPgzYoPxMNW7R7Rp9
+
 ----
 
 ## Atelier "Affichage web du texte" - 16/05/25
