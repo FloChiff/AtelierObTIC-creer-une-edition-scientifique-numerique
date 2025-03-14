@@ -2,17 +2,48 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            <titleStmt>
-                <title></title>
+        <titleStmt>
+                <title type="main">Le tour du monde en quatre-vingts jours / par Jules Verne</title>
+                <title type="sub">dessins par MM. de Neuville et L. Benett</title>
+                <author>Verne, Jules (1828-1905)</author>
+                <respStmt>
+                    <resp>Encodé par</resp>
+                    <name>Floriane Chiffoleau</name>
+                </respStmt>
             </titleStmt>
             <publicationStmt>
-                <p></p>
+                <authority>Sorbonne Université</authority>
             </publicationStmt>
+            <seriesStmt>
+                <title type="collection">Les voyages extraordinaires</title>
+            </seriesStmt>
             <sourceDesc>
-                <p>
-                </p>
+                <msDesc>
+                    <msIdentifier>
+                        <institution>Bibliothèque nationale de France</institution>
+                        <repository>département Réserve des livres rares</repository>
+                        <collection>RES M-Y2-771</collection>
+                        <idno>ark:/12148/btv1b8600244d</idno>
+                    </msIdentifier>
+                </msDesc>
             </sourceDesc>
         </fileDesc>
+        <profileDesc>
+            <creation>
+                <date>1872</date>
+            </creation>
+            <langUsage>
+                <language ident="fr"/>
+            </langUsage>
+            </profileDesc>
+        <encodingDesc>
+            <projectDesc>
+                <p>Atelier ObTIC "Créer son édition scientifique numérique"</p>
+            </projectDesc>
+        </encodingDesc>
+        <revisionDesc>
+            <change when-iso="2025-03-14" who="fchiffol">Encodage du document</change>
+        </revisionDesc>
     </teiHeader>
     <text>
         <body>
