@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-        <titleStmt>
+            <titleStmt>
                 <title type="main">Le tour du monde en quatre-vingts jours / par Jules Verne</title>
                 <title type="sub">dessins par MM. de Neuville et L. Benett</title>
                 <author>Verne, Jules (1828-1905)</author>
@@ -35,20 +35,217 @@
             <langUsage>
                 <language ident="fr"/>
             </langUsage>
-            </profileDesc>
+            <particDesc>
+                <listOrg>
+                    <org xml:id="o0001">
+                        <orgName type="museum">Mme Tussaud</orgName>
+                        <place>
+                            <placeName>Londres</placeName>
+                            <country>Angleterre</country>
+                        </place>
+                    </org>
+                </listOrg>
+                <listPerson>
+                    <person xml:id="p0001">
+                        <persName><forename>Phileas</forename>
+                            <surname>Fogg</surname></persName>
+                    </person>
+                    <person xml:id="p0002">
+                        <persName><forename>Jean</forename>
+                            <surname>Passepartout</surname></persName>
+                    </person>
+                </listPerson>
+            </particDesc>
+            <settingDesc>
+                <listPlace>
+                    <place type="city" xml:id="l0001">
+                        <placeName>Paris</placeName>
+                        <country>France</country>
+                    </place>
+                    <place type="city" xml:id="l0002">
+                        <placeName>Londres</placeName>
+                        <country>Angleterre</country>
+                    </place>
+                </listPlace>
+            </settingDesc>
+        </profileDesc>
         <encodingDesc>
             <projectDesc>
                 <p>Atelier ObTIC "Créer son édition scientifique numérique"</p>
             </projectDesc>
         </encodingDesc>
         <revisionDesc>
+            <change when-iso="2025-03-18" who="fchiffol">Ajout des éléments encodés pendant l'atelier</change>
             <change when-iso="2025-03-14" who="fchiffol">Encodage du document</change>
         </revisionDesc>
     </teiHeader>
     <text>
+        <front>
+            <div type="contents">
+                <list>
+                    <head>TABLE DES MATIÈRES</head>
+                    <note>Pages.</note>
+                    <item>CHAPITRE I. — Dans lequel Phileas Fogg et Passepartout s’acceptent
+                        réciproquement, l'un<lb/> comme maître, l’autre comme
+                        domestique............... 1</item>
+                    <item>II. — Où Passepartout est convaincu qu'il a enfin trouvé son
+                        idéal........ 5</item>
+                    <item>III. — Où s’engage une conversation qui pourra coûter cher à Phileas
+                        Fogg...... 10</item>
+                    <item>IV. — Dans lequel Phileas Fogg stupéfie Passepartout, son
+                        domestique............. 16</item>
+                    <item>V. — Dans lequel une nouvelle valeur apparaît sur la place de Londres....
+                        20</item>
+                    <item>VI. — Dans lequel l’agent Fix montre une impatience bien
+                        légitime............... 23</item>
+                    <item>VII. — Qui témoigne une fois de plus de l’inutilité des passe-ports en
+                        matière de<lb/> police....... 28</item>
+                    <item>VIII. — Dans lequel Passepartout parle un peu plus peut-être qu’il ne
+                            convien-<lb break="no"/> drait....... 31</item>
+                    <item>IX. — Où la mer Rouge et la mer des Indes se montrent propices aux
+                        desseins de Phileas<lb/> Fogg ........... 36</item>
+                    <item>X. — Où Passepartout est trop heureux d’en être quitte en perdant sa
+                        chaussure... 42</item>
+                    <item>XI. — Où Phileas Fogg achète une monture à un prix fabuleux.........
+                        46</item>
+                    <item>XII. — Où Phileas Fogg et ses compagnons s’aventurent à travers les
+                        forêts de l’Inde, et<lb/> ce qui s'ensuit............. 55</item>
+                    <item>XIII. — Dans lequel Passepartout prouve une fois de plus que la fortune
+                        sourit aux<lb/> audacieux . .................. 62</item>
+                    <item>XIV. — Dans lequel Phileas Fogg descend toute l’admirable vallée du Gange
+                        sans même<lb/> songer à la voir ............................. 69</item>
+                    <item>XV. — Où le sac aux bank-notes s’allége encore de quelques miiliers de
+                        livres........ 76</item>
+                    <item>XVI. — Où Fix n’a pas l’air de connaître du tout les choses dont on lui
+                        parle....83</item>
+                    <item>XVII. — Où il est question de choses et d’autres pendant la traversée de
+                        Singapore à<lb/> Hong Kong ..................................... 87</item>
+                    <item>XVIII. — Dans lequel Phileas Fogg, Passepartout, Fix, chacun de son coté,
+                        va à ses<lb/> affaires............................................
+                        94</item>
+                    <item>XIX. — Où Passepartout prend un trop vif intéret à son maître, et ce
+                        qui s’ensuit..... 99</item>
+                    <item>XX. — Dans lequel Fix entre directement en relation avec Phileas Fogg
+                        ............ 107</item>
+                    <item>XXI. — Où le patron de la Tankadère risque fort de perdre une prime de
+                        deux cents<lb/> livres .................................... 114</item>
+                    <item>XXII. — Où Passepartout voit bien que, même aux antipodes, il est prudent
+                        d’avoir<lb/> quelque argent dans sa poche..............................
+                        122</item>
+                    <item>XXIII. — Dans lequel le nez de Passepartout s’allonge
+                        démesurément................ 127</item>
+                    <item>XXIV. — Pendant lequel s’accomplit la traversée de l'océan
+                        Pacifique............... 135</item>
+                    <item>XXV. — Où l’on donne un léger aperçu de San-Francisco, un jour de
+                        meeting.......141</item>
+                    <item>XXVI. — Dans lequel on prend le train express du chemin de fer du
+                        Pacifique........ 148</item>
+                    <item>XXVII. — Dans lequel Passepartout suit, avec une vitesse de vingt milles
+                        à l’heure, un<lb/> cours d’histoire mormone ...............................
+                        154</item>
+                    <item>XXVIII. — Dans lequel Passepartout ne put parvenir à faire ententre le
+                        langage de la<lb/> raison ..........................................
+                        159</item>
+                    <item>XXIX. — Où il sera fait le recit d’incidents divers qui ne se rencontrent
+                        que sur les rails-<lb break="no"/> roads de
+                        l'Union................................. 167</item>
+                    <item>XXX. — Dans lequel Phileas Fogg fait tout simplement son
+                        devoir............ 175</item>
+                    <item>XXXI. — Dans lequel l'inspecteur Fix prend très-sérieusement les
+                        intérêts de Phileas<lb/> Fogg................................. 182</item>
+                    <item>XXXII. — Dans lequel Phileas Fogg engage une lutte directe contre la
+                        mauvaise<lb/> chance.............................. 189</item>
+                    <item>XXXIII. — Où Phileas Fogg se montre à la hauteur des
+                        circonstances........194</item>
+                    <item>XXXIV. — Qui procure à Passepartout l’occasion de faire un jeu de mots
+                        atroce, mais peut-<lb break="no"/>être
+                        inédit........................................... 202</item>
+                    <item>XXXV. — Dans lequel Passepartout ne se fait pas répéter deux fois l'ordre
+                        que son maitre<lb/> lui a donné............................... 205</item>
+                    <item>XXXVI. — Dans lequel Phiieas Fogg fait de nouveau prime sur le
+                        marché......... 211</item>
+                    <item>XXXVII. — Dans lequel il est prouvé que Phileas Fogg n’a rien gagné à
+                        faire ce tour du<lb/> monde, si ce n’est le
+                        bonheur................................ 214</item>
+                </list>
+            </div>
+            <div type="frontispiece">
+                <figure>
+                    <graphic url="frontispice.jpeg" width="5cm"/>
+                    <head>Frontispice</head>
+                </figure>
+            </div>
+        </front>
         <body>
-            <div>
-                <p></p>
+            <div type="book">
+                <pb
+                    facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8600244d/f13/full/full/0/native.jpg"
+                    n="5"/>
+                <head> II<lb/> Où <persName ref="p0002">Passepartout</persName> est convaincu qu'il
+                    a enfin trouvé son idéal </head>
+                <p>«Sur ma foi, se dit <persName ref="p0002">Passepartout</persName>, un peu ahuri
+                    tout d’abord, j’ai connu chez <lb/>
+                    <orgName ref="#o0001">Mme Tussaud</orgName> des bonshommes aussi vivants que mon
+                    nouveau maître ! » </p>
+                <p>Il convient de dire ici que les « bonshommes » de <orgName ref="#o0001">Mme
+                        Tussaud</orgName> sont des <lb/> figures de cire, fort visitées à <placeName
+                        ref="#l0002">Londres</placeName>, et auxquelles il ne manque vraiment <lb/>
+                    que la parole. </p>
+                <p>Pendant les quelques instants qu’il venait d’entrevoir <persName ref="p0001"
+                        >Phileas Fogg</persName>, <persName ref="p0002">Passe-<lb break="no"/>
+                        partout</persName> avait rapidement, mais soigneusement examiné son futur
+                    maître. C’était <lb/>
+                    <pb
+                        facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8600244d/f14/full/full/0/native.jpg"
+                        n="6"/>
+                    <note type="foliation">6 LE TOUR DU MONDE</note> un homme qui pouvait avoir
+                    quarante ans, de figure noble et belle, haut de <lb/> taille, que ne déparait
+                    pas un léger embonpoint, blond de cheveux et de favoris, <lb/> front uni sans
+                    apparences de rides aux tempes, figure plutôt pâle que colorée, <lb/> dents
+                    magnifiques. Il paraissait posséder au plus haut degré ce que les phy-<lb
+                        break="no"/> sionomistes appellent « le repos dans l’action », faculté
+                    commune à tous ceux <lb/> qui font plus de besogne que de bruit. Calme,
+                    flegmatique, l’œil pur, la paupière <lb/> immobile, c’était le type achevé de
+                    ces Anglais à sang-froid qui se rencon-<lb break="no"/> trent assez fréquemment
+                    dans le Royaume-Uni, et dont Angelica Kauffmann a <lb/> merveilleusement rendu
+                    sous son pinceau l’attitude un peu académique. [...] </p>
+                <p>Quant à <persName ref="p0002">Jean</persName>, dit <persName ref="p0002"
+                        >Passepartout</persName>, un vrai Parisien de <placeName ref="#l0001"
+                        >Paris</placeName>, depuis cinq ans <lb/> qu’il habitait l’Angleterre et y
+                    faisait à <placeName ref="#l0002">Londres</placeName> le métier de valet de
+                    chambre,<lb/> il avait cherché vainement un maître auquel il pût s’attacher. </p>
+                <p><persName ref="p0002">Passepartout</persName> n’était point un de ces Frontins ou
+                    Mascarilles qui, les épaules <lb/> hautes, le nez au vent, le regard assuré,
+                    l’œil sec, ne sont que d’impudents <lb/> drôles. Non. <persName ref="p0002"
+                        >Passepartout</persName> était un brave garçon, de physionomie aimable,
+                    <lb/> aux lèvres un peu saillantes, toujours prêtes à goûter ou à caresser, un
+                    être <lb/> doux et serviable, avec une de ces bonnes têtes rondes que l’on aime
+                    à voir sur <lb/> les épaules d’un ami. Il avait les yeux bleus, le teint animé,
+                    la figure assez <lb/> grasse pour qu’il pût lui-même voir les pommettes de ses
+                    joues, la poitrine <lb/> large, la taille forte, une musculature vigoureuse, et
+                    il possédait une force her-<lb break="no"/> culéenne que les exercices de sa
+                    jeunesse avaient admirablement développée. </p>
+                <p>Ses cheveux bruns étaient un peu rageurs. Si les sculpteurs de l’Antiquité con-
+                        <pb
+                        facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8600244d/f15/full/full/0/native.jpg"
+                        n="7" break="no"/>
+                    <note type="foliation">EN QUATRE-VINGTS JOURS 7 </note> [...] <pb
+                        facs="https://gallica.bnf.fr/iiif/ark:/12148/btv1b8600244d/f16/full/full/0/native.jpg"
+                        n="8"/>
+                    <note type="foliation">8 LE TOUR DU MONDE</note>
+                    <figure>
+                        <graphic url="passepartout.png" width="5cm"/>
+                        <figDesc><persName ref="p0002">Jean Passepartout</persName></figDesc>
+                    </figure> heures du matin, heure réglementaire à laquelle se levait <persName
+                        ref="p0001">Phileas Fogg</persName>, <lb/> jusqu’à onze heures et demie,
+                    heure à laquelle il quittait sa maison pour aller <lb/> déjeuner au Reform-Club
+                    – tous les détails du service, le thé et les rôties <lb/> de huit heures
+                    vingt-trois, l’eau pour la barbe de neuf heures trente-sept, la <lb/> coiffure
+                    de dix heures moins vingt, etc. Puis de onze heures et demie du matin <lb/> à
+                    minuit – heure à laquelle se couchait le méthodique gentleman –, tout était
+                    <lb/> noté, prévu, régularisé. <persName ref="p0002">Passepartout</persName> se
+                    fit une joie de méditer ce programme <lb/> et d’en graver les divers articles
+                    dans son esprit.</p>
             </div>
         </body>
     </text>
