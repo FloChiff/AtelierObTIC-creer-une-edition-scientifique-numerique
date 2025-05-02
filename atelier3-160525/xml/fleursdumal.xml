@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Les Fleurs du mal</title>
+                <author>Charles Baudelaire</author>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>Poulet-Malassis et de Broise, Libraires-éditeurs</publisher>
+                <pubPlace>
+                    <address>
+                        <addrLine>4, rue de Buci</addrLine>
+                        <addrLine>Paris</addrLine>
+                    </address>
+                </pubPlace>
+                <date>1857</date>
+            </publicationStmt>
+            <sourceDesc>
+                <msDesc>
+                    <msIdentifier>
+                        <country>France</country>
+                        <settlement>Paris</settlement>
+                        <institution>Bibliothèque nationale de France</institution>
+                    </msIdentifier>
+                </msDesc>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="part">
+                <head>Spleen et idéal</head>
+                <pb n="66"/>
+                <div type="poem" n="27">
+                    <head>Une charogne</head>
+                    <lg>
+                        <l>Rappelez-vous l’objet que nous vîmes, mon âme,</l>
+                        <l>Ce beau matin d’été si doux :</l>
+                        <l>Au détour d’un sentier une charogne infâme</l>
+                        <l>Sur un lit semé de cailloux,</l>
+                    </lg>
+                    <lg>
+                        <l>Les jambes en l’air, comme une femme lubrique,</l>
+                        <l>Brûlante et suant les poisons,</l>
+                        <l>Ouvrait d’une façon nonchalante et cynique</l>
+                        <l>Son ventre plein d’exhalaisons.</l>
+                    </lg>
+                    <pb n="67"/>
+                    <lg>
+                        <l>Le soleil rayonnait sur cette pourriture,</l>
+                        <l>Comme afin de la cuire à point,</l>
+                        <l>Et de rendre au centuple à la grande Nature</l>
+                        <l>Tout ce qu’ensemble elle avait joint ;</l>
+                    </lg>
+                    <lg>
+                        <l>Et le ciel regardait la carcasse superbe</l>
+                        <l>Comme une fleur s’épanouir.</l>
+                        <l>– La puanteur était si forte, que sur l’herbe</l>
+                        <l>Vous crûtes vous évanouir ;–</l>
+                    </lg>
+                    <lg>
+                        <l>Les mouches bourdonnaient sur ce ventre putride,</l>
+                        <l>D’où sortaient de noirs bataillons</l>
+                        <l>De larves, qui coulaient comme un épais liquide</l>
+                        <l>Le long de ces vivants haillons.</l>
+                    </lg>
+                    <lg>
+                        <l>Tout cela descendait, montait comme une vague,</l>
+                        <l>Ou s’élançait en pétillant ;</l>
+                        <l>On eût dit que le corps, enflé d’un souffle vague,</l>
+                        <l>Vivait en se multipliant.</l>
+                    </lg>
+                    <lg>
+                        <l>Et ce monde rendait une étrange musique,</l>
+                        <l>Comme l’eau courante et le vent,</l>
+                        <l>Ou le grain qu’un vanneur d’un mouvement rhythmique</l>
+                        <l>Agite et tourne dans son van.</l>
+                    </lg>
+                    <lg>
+                        <l>Les formes s’effaçaient et n’étaient plus qu’un rêve,</l>
+                        <l>Une ébauche lente à venir,</l>
+                        <l>Sur la toile oubliée, et que l’artiste achève</l>
+                        <l>Seulement par le souvenir.</l>
+                    </lg>
+                    <pb n="68"/>
+                    <lg>
+                        <l>Derrière les rochers une chienne inquiète</l>
+                        <l>Nous regardait d’un œil fâché,</l>
+                        <l>Épiant le moment de reprendre au squelette</l>
+                        <l>Le morceau qu’elle avait lâché.</l>
+                    </lg>
+                    <lg>
+                        <l>– Et pourtant vous serez semblable à cette ordure,</l>
+                        <l>À cette horrible infection,</l>
+                        <l>Étoile de mes yeux, soleil de ma nature,</l>
+                        <l>Vous, mon ange et ma passion !</l>
+                    </lg>
+                    <lg>
+                        <l>Oui ! telle vous serez, ô la reine des grâces,</l>
+                        <l>Après les derniers sacrements,</l>
+                        <l>Quand vous irez, sous l’herbe et les floraisons grasses,</l>
+                        <l>Moisir parmi les ossements.</l>
+                    </lg>
+                    <lg>
+                        <l>Alors, ô ma beauté ! dites à la vermine</l>
+                        <l>Qui vous mangera de baisers,</l>
+                        <l>Que j’ai gardé la forme et l’essence divine</l>
+                        <l>De mes amours décomposés !</l>
+                    </lg>
+                </div>
+            </div>
+        </body>
+    </text>
+</TEI>
