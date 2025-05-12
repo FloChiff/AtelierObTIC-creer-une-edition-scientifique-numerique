@@ -25,3 +25,4 @@ Formulaire de retour d'expérience : https://forms.gle/RPgzYoPxMNW7R7Rp9
 
 Ce troisième et dernier atelier de la série est dédié à l’affichage web de son corpus encodé, c’est-à-dire pouvoir observer concrètement les enrichissements variés qui ont été apportés à son corpus via l’encodage. Après une brève introduction de l’intérêt et des méthodes d’une telle étape, l’atelier aura pour but de présenter et de travailler sur plusieurs outils permettant l’affichage web. 
 
+Formulaire de retour d'expérience : https://forms.gle/8bvML3X2UVK36fDy8
