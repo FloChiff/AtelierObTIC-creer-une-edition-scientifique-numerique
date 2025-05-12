@@ -4,3 +4,5 @@
 **Lieu** : _DataLab - BNF (Salle 70)_  
 **Horaires** : _14h-17h_  
 **Présentation** : Ce troisième et dernier atelier de la série est dédié à l’affichage web de son corpus encodé, c’est-à-dire pouvoir observer concrètement les enrichissements variés qui ont été apportés à son corpus via l’encodage. Après une brève introduction de l’intérêt et des méthodes d’une telle étape, l’atelier aura pour but de présenter et de travailler sur plusieurs outils permettant l’affichage web. 
+
+Document à télécharger pour l'outil TEI CAT : https://github.com/ArianePinche/coursTNAH_XSLT/blob/master/seance4/Lucain.xml
